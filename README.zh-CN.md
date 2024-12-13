@@ -10,7 +10,7 @@
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
 投影仪，例如视频
 
