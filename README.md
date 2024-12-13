@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+projectors
+# Projectors
 
 > Slugline
 
@@ -11,7 +11,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Projectors for e.g. video
 
 ## 100 - Introduction
 
