@@ -8,7 +8,7 @@
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
