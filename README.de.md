@@ -1,6 +1,6 @@
-Repository-Name
+Projektoren
 
-# Repository Name
+# Projektoren
 
 > Slugline
 
@@ -12,11 +12,11 @@ Repository-Name
 
 **Zusammenfassung**
 
-Text
+Projektoren für z.B. Video
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
