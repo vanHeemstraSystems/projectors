@@ -1,10 +1,10 @@
-projectors
+प्रोजेक्टर
 
 # प्रोजेक्टर
 
 > स्लगलाइन
 
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -14,7 +14,7 @@ projectors
 
 उदाहरण के लिए प्रोजेक्टर वीडियो
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
@@ -28,4 +28,4 @@ projectors
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
