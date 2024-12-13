@@ -5,7 +5,7 @@ Projektoren
 > Slugline
 
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -28,4 +28,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-See [README.md](./400/README.md)
+Sehen[README.md](./400/README.md)
