@@ -10,9 +10,9 @@
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
-**執行摘要**
+**Executive Summary**
 
-Projectors for e.g. video
+投影儀，例如影片
 
 ## 100 - 簡介
 
@@ -24,7 +24,7 @@ Projectors for e.g. video
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
