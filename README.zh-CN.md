@@ -4,7 +4,7 @@
 
 > 斯拉格莱恩
 
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
@@ -28,4 +28,4 @@
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
