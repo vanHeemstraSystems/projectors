@@ -5,7 +5,7 @@ projectoren
 > Slaklijn
 
 -   [Documentatie](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossarium](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -26,6 +26,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusie
 
 Zien[README.md](./400/README.md)
