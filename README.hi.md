@@ -1,12 +1,12 @@
 प्रोजेक्टर
 
-# Projectors
+# प्रोजेक्टर
 
 > स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -20,7 +20,7 @@
 
 ## 200 - आवश्यकताएँ
 
-See [README.md](./200/README.md)
+देखना[README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
