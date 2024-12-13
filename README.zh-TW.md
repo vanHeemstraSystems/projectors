@@ -12,7 +12,7 @@
 
 **執行摘要**
 
-投影儀，例如影片
+Projectors for e.g. video
 
 ## 100 - 簡介
 
