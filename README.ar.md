@@ -1,10 +1,10 @@
-projectors
+أجهزة العرض
 
 # أجهزة العرض
 
-> Slugline
+> سلوجلاين
 
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
@@ -20,9 +20,9 @@ projectors
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
