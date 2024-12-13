@@ -1,10 +1,10 @@
-projectors
+Projektoren
 
 # Projektoren
 
 > Slugline
 
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
@@ -24,8 +24,8 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
