@@ -2,7 +2,7 @@
 
 # प्रोजेक्टर
 
-> Slugline
+> स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
