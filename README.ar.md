@@ -5,12 +5,12 @@
 > سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
@@ -26,6 +26,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
