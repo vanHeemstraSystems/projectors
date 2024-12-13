@@ -1,22 +1,22 @@
-nombre-repositorio
+proyectores
 
-# Nombre del repositorio
+# Proyectores
 
-> Slugline
+> línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [Imágenes](./IMAGES.md)
+-   [Glosario](./GLOSSARY.md)
+-   [Images](./IMAGES.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Texto
+Proyectores para p.e. video
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
