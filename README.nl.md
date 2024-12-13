@@ -4,7 +4,7 @@ projectoren
 
 > Slaklijn
 
--   [Documentatie](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
@@ -18,7 +18,7 @@ Projectoren voor b.v. video
 
 Zien[README.md](./100/README.md)
 
-## 200 - Vereisten
+## 200 - Requirements
 
 Zien[README.md](./200/README.md)
 
