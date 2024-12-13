@@ -5,7 +5,7 @@ Projektoren
 > Slugline
 
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
