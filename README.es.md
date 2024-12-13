@@ -6,8 +6,8 @@ proyectores
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Images](./IMAGES.md)
--   [Referencias](./REFERENCES.md)
+-   [Imágenes](./IMAGES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
@@ -24,7 +24,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusión
 
