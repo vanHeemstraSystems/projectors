@@ -7,7 +7,7 @@ Projektoren
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
@@ -16,7 +16,7 @@ Projektoren für z.B. Video
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
@@ -24,7 +24,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-See [README.md](./300/README.md)
+Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
